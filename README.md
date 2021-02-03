@@ -1,15 +1,15 @@
-### :octocat: Kathleen - PyxiaNox :octocat:
-#### Freelance Web Developer
+<p align="center">:octocat: Kathleen - PyxiaNox :octocat:
+<p align="center">Freelance Web Developer
 
 
-:computer: Web developer :mailbox: Based in Mérignac, France :video_game: Video Gamer
-:musical_score: Having fun with synthesis voices for websites :microphone:
+<p align="center">:computer: Web developer :mailbox: Based in Mérignac, France :video_game: Video Gamer
+<p align="center">:musical_score: Having fun with synthesis voices for websites :microphone:
+<br>
 
-
-I will enjoy to help companies and costumers with their projects by bringing my developer skills
-or by driving projects in freelance.
-
-From the ideation phase to deployment, **let me join you** !
+<p align="center">I will enjoy to help companies and costumers with their projects by bringing my developer skills
+<p align="center">or by driving projects in freelance.
+<br>
+<p align="center">From the ideation phase to deployment, **let me join you** !
 
 
 
