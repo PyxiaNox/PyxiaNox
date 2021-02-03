@@ -1,15 +1,19 @@
-<p align="center">:octocat: Kathleen - PyxiaNox :octocat:
-<p align="center">Freelance Web Developer
+<h2 align="center">:octocat: Kathleen - PyxiaNox :octocat:
+<h3 align="center">Freelance Web Developer
 
 
-<p align="center">:computer: Web developer :mailbox: Based in Mérignac, France :video_game: Video Gamer
-<p align="center">:musical_score: Having fun with synthesis voices for websites :microphone:
-<br>
+<p align="center"><br><strong>:computer: Web developer :mailbox: Based in Mérignac, France :video_game: Video Gamer
+<p align="center">:musical_score: Having fun with synthesis voices for websites :microphone:</strong>
 
-<p align="center">I will enjoy to help companies and costumers with their projects by bringing my developer skills
+<p align="center"><br>I will enjoy to help companies and costumers with their projects by bringing my developer skills
 <p align="center">or by driving projects in freelance.
-<br>
-<p align="center">From the ideation phase to deployment, **let me join you** !
+  
+<p align="center"><br>From the ideation phase to deployment, <strong>let me join you</strong> !
+
+<p align="center"><br>
+  <img src="https://www.gifimili.com/gif/2018/02/zelda-bateau-pixel-art.gif"/>
+</p>
+
 
 
 
