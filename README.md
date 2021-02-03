@@ -2,8 +2,8 @@
 <h3 align="center">Freelance Web Developer
 
 
-<p align="center"><br><strong>:computer: Web developer :mailbox: Based in Mérignac, France :video_game: Video Gamer
-<p align="center">:musical_score: Having fun with synthesis voices for websites :microphone:</strong>
+<p align="center"><br><strong>:computer: Web developer :mailbox: Based in Mérignac, France :video_game: Video Gamer</strong>
+<p align="center"><strong>:musical_score: Having fun with synthesis voices for websites :microphone:</strong>
 
 <p align="center"><br>I will enjoy to help companies and costumers with their projects by bringing my developer skills
 <p align="center">or by driving projects in freelance.
