@@ -5,7 +5,7 @@
 <p align="center"><br><strong>:computer: Web developer :mailbox: Based in Mérignac, France :video_game: Video Gamer</strong>
 <p align="center"><strong>:musical_score: Having fun with synthesis voices for websites :microphone:</strong>
 
-<p align="center"><br>I will enjoy to help companies and costumers with their projects by bringing my developer skills
+<p align="center"><br>I will enjoy to help companies and customers with their projects by bringing my developer skills
 <p align="center">or by driving projects in freelance.
   
 <p align="center"><br>From the ideation phase to deployment, <strong>let me join you</strong> !
