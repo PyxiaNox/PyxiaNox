@@ -1,17 +1,6 @@
-<h2 align="center">:octocat: Kathleen - PyxiaNox :octocat:
-<h3 align="center">Freelance Web Developer
-
-
-<p align="center"><br><strong>:computer: Web developer :mailbox: Based in Mérignac, France :video_game: Video Gamer</strong>
-<p align="center"><strong>:musical_score: Having fun with synthesis voices for websites :microphone:</strong>
-
-<p align="center"><br>I will enjoy to help companies and customers with their projects by bringing my developer skills
-<p align="center">or by driving projects in freelance.
-  
-<p align="center"><br>From the ideation phase to deployment, <strong>let me join you</strong> !
+<h2 align="center">:octocat:
 
 <p align="center"><br>
-  <img src="https://www.gifimili.com/gif/2018/02/zelda-bateau-pixel-art.gif"/>
   <img src="https://zupimages.net/up/21/14/tfx7.png"/>
 </p>
 
