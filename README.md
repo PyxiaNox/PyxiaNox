@@ -1,5 +1,3 @@
-<h2 align="center">:octocat:
-
 <p align="center"><br>
   <img src="https://zupimages.net/up/21/14/tfx7.png"/>
 </p>
