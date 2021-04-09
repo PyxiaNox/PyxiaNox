@@ -12,7 +12,7 @@
 
 <p align="center"><br>
   <img src="https://www.gifimili.com/gif/2018/02/zelda-bateau-pixel-art.gif"/>
-  <img src="https://drive.google.com/drive/u/2/my-drive"/>
+  <img src="https://zupimages.net/up/21/14/tfx7.png"/>
 </p>
 
 
